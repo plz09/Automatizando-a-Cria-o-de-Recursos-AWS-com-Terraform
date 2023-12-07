@@ -1,5 +1,3 @@
-# Automatizando-a-Cria-o-de-Recursos-AWS-com-Terraform
-
 # Automatizando a Criação de Recursos AWS com Terraform
 
 Este projeto tem como objetivo fornecer uma solução automatizada para a criação de recursos na AWS utilizando Terraform. A automação é realizada por meio de um ambiente Dockerizado, executando em um sistema operacional Linux. O projeto inclui scripts Dockerfile, Terraform e AWS para facilitar a replicação e execução em diferentes ambientes.
